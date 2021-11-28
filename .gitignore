@@ -1,3 +1,5 @@
 /.idea/
 /venv/
 OreillyDeepLearning/dataset/__pycache__/*
+OreillyDeepLearning/common/__pycache__/*
+
